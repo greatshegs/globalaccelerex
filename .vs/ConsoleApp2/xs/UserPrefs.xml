@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{5CCD78D2-0AAA-4251-9BCB-E3905ABD8B91}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Readme.md">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="WebApplication1/FormatService.cs" Line="1" Column="1" />
       <File FileName="WebApplication1/FormatViewModel.cs" />
@@ -7,14 +7,13 @@
       <File FileName="WebApplication1/Program.cs" />
       <File FileName="WebApplication1/Q1.cs" />
       <File FileName="WebApplication1/Startup.cs" />
-      <File FileName="ConsoleApp2/Program.cs" Line="10" Column="10" />
+      <File FileName="ConsoleApp2/Program.cs" />
       <File FileName="Readme.md" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ConsoleApp2" expanded="True" selected="True">
-            <Node name="ConsoleApp2" expanded="True" />
             <Node name="WebApplication1" expanded="True" />
           </Node>
         </State>

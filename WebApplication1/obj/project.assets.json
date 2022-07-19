@@ -411,11 +411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onagssy/Downloads/ConsoleApp2/WebApplication1/WebApplication1.csproj",
+      "projectUniqueName": "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "/Users/onagssy/Downloads/ConsoleApp2/WebApplication1/WebApplication1.csproj",
+      "projectPath": "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/WebApplication1.csproj",
       "packagesPath": "/Users/onagssy/.nuget/packages/",
-      "outputPath": "/Users/onagssy/Downloads/ConsoleApp2/WebApplication1/obj/",
+      "outputPath": "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onagssy/.config/NuGet/NuGet.Config"
