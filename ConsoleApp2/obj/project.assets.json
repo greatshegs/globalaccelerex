@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onagssy/Downloads/GlobalAccelerexInterview/ConsoleApp2/Q2.csproj",
+      "projectUniqueName": "/Users/onagssy/Downloads/GlobalAcelerexInterview/ConsoleApp2/Q2.csproj",
       "projectName": "Q2",
-      "projectPath": "/Users/onagssy/Downloads/GlobalAccelerexInterview/ConsoleApp2/Q2.csproj",
+      "projectPath": "/Users/onagssy/Downloads/GlobalAcelerexInterview/ConsoleApp2/Q2.csproj",
       "packagesPath": "/Users/onagssy/.nuget/packages/",
-      "outputPath": "/Users/onagssy/Downloads/GlobalAccelerexInterview/ConsoleApp2/obj/",
+      "outputPath": "/Users/onagssy/Downloads/GlobalAcelerexInterview/ConsoleApp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/onagssy/.config/NuGet/NuGet.Config"

@@ -13,8 +13,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleApp2" expanded="True" selected="True">
-            <Node name="WebApplication1" expanded="True" />
+          <Node name="ConsoleApp2" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="FormatService.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

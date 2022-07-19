@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/WebApplication1.csproj": {}
+    "/Users/onagssy/Downloads/GlobalAcelerexInterview/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/WebApplication1.csproj": {
+    "/Users/onagssy/Downloads/GlobalAcelerexInterview/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/Users/onagssy/Downloads/GlobalAcelerexInterview/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/WebApplication1.csproj",
+        "projectPath": "/Users/onagssy/Downloads/GlobalAcelerexInterview/WebApplication1/WebApplication1.csproj",
         "packagesPath": "/Users/onagssy/.nuget/packages/",
-        "outputPath": "/Users/onagssy/Downloads/GlobalAccelerexInterview/WebApplication1/obj/",
+        "outputPath": "/Users/onagssy/Downloads/GlobalAcelerexInterview/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/onagssy/.config/NuGet/NuGet.Config"
