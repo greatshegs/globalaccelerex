@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8652FD97-1743-4ED8-B7C2-FFA93F8E4198}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/FormatController.cs">
+    <Files>
+      <File FileName="Q1.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="FormatService.cs" Line="1" Column="1" />
+      <File FileName="FormatViewModel.cs" Line="1" Column="1" />
+      <File FileName="IFormatService.cs" Line="1" Column="1" />
+      <File FileName="Controllers/FormatController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True">
+            <Node name="WebApplication1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FormatController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
